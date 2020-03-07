@@ -1,0 +1,82 @@
+[
+  {
+    "model": "core.book",
+    "pk": 1,
+    "fields": {
+      "name": "Dom Quixote",
+      "author": "Miguel de Cervantes"
+    }
+  },
+  {
+    "model": "core.book",
+    "pk": 2,
+    "fields": {
+      "name": "Guerra e Paz",
+      "author": "Liev Tolstói"
+    }
+  },
+  {
+    "model": "core.book",
+    "pk": 3,
+    "fields": {
+      "name": "A Montanha Mágica",
+      "author": "Thomas Mann"
+    }
+  },
+  {
+    "model": "core.book",
+    "pk": 4,
+    "fields": {
+      "name": "Cem Anos de Solidão",
+      "author": "Gabriel García Márquez"
+    }
+  },
+  {
+    "model": "core.book",
+    "pk": 5,
+    "fields": {
+      "name": "Ulisses",
+      "author": "James Joyce"
+    }
+  },
+  {
+    "model": "core.book",
+    "pk": 6,
+    "fields": {
+      "name": "Em Busca do Tempo Perdido",
+      "author": "Marcel Proust"
+    }
+  },
+  {
+    "model": "core.book",
+    "pk": 7,
+    "fields": {
+      "name": "A Divina Comédia",
+      "author": "Dante Alighieri"
+    }
+  },
+  {
+    "model": "core.book",
+    "pk": 8,
+    "fields": {
+      "name": "O Homem sem Qualidades",
+      "author": "Robert Musil"
+    }
+  },
+  {
+    "model": "core.book",
+    "pk": 9,
+    "fields": {
+      "name": "O Processo",
+      "author": "Franz Kafka"
+    }
+  },
+  {
+    "model": "core.book",
+    "pk": 10,
+    "fields": {
+      "name": "O Som e a Fúria",
+      "author": "William Faulkner"
+    }
+  }
+]
